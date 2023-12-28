@@ -19,7 +19,7 @@ $ cd TAV
 $ python run.py
 ```
 
-<img src="https://github.com/InstaCodex/TAV/blob/main/Asset/20231228093255002.gif" alt="Profile Image" width="100%">
+<img src="https://github.com/InstaCodex/TAV/blob/main/Asset/20231228093255002.gif" alt="Profile Image" height="35%" width="50%">
 
 ## Saran Gw
 - Notice Me: ```Hasil Crack Followers Banyak Atau Sedikit Tergantung Target Yang Dipilih```
