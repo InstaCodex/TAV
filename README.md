@@ -15,7 +15,7 @@ $ pip install rich
 $ git clone https://github.com/InstaCodex/TAV
 $ cd TAV
 $ python run.py
-``
+```
 
 <img src="https://github.com/InstaCodex/TAV/blob/main/Asset/20231228093255002.gif" alt="Profile Image" height="35%" width="50%">
 
